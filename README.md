@@ -1,4 +1,4 @@
 # test
 github sandbox
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[[https://projecteuler.net/profile/mafu.png]]
